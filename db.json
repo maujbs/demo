@@ -79,5 +79,26 @@
 			"nombre": "Pozos",
 			"ubicacion": "San Jose, Santa Ana, Pozos"
 		}
+	],
+	"usuarios": [{
+			"id": 112490048,
+			"phone": 89999919,
+			"carId": "CL312509"
+		},
+		{
+			"id": 212480049,
+			"phone": 78155578,
+			"carId": "478566"
+		},
+		{
+			"id": 378999898,
+			"phone": 47485651,
+			"carId": "MSM022"
+		},
+		{
+			"id": 992490048,
+			"phone": 27485651,
+			"carId": "CL548989"
+		}
 	]
 }
