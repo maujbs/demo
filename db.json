@@ -83,22 +83,26 @@
 	"users": [{
 			"id": 112490048,
 			"phone": 89999919,
-			"carId": "CL312509"
+			"carId": "CL312509",
+			"type:" "N/A"
 		},
 		{
 			"id": 212480049,
 			"phone": 78155578,
-			"carId": "478566"
+			"carId": "478566",
+			"type": "Automovil"
 		},
 		{
 			"id": 378999898,
 			"phone": 47485651,
-			"carId": "MSM022"
+			"carId": "MSM022",
+			"type": "Moto"
 		},
 		{
 			"id": 992490048,
 			"phone": 27485651,
-			"carId": "CL548989"
+			"carId": "CL548989",
+			"type":	"Carga pesada"
 		}
 	]
 }
