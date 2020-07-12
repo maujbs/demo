@@ -84,22 +84,25 @@
 			"id": 112490048,
 			"phone": 89999919,
 			"carId": "CL312509",
-			"vtype": "as"
+			"vType": "NA"
 		},
 		{
 			"id": 212480049,
 			"phone": 78155578,
-			"carId": "478566"
+			"carId": "478566",
+			"vType": "Automovile"
 		},
 		{
 			"id": 378999898,
 			"phone": 47485651,
-			"carId": "MSM022"
+			"carId": "MSM022",
+			"vType": "Motorcycle"
 		},
 		{
 			"id": 992490048,
 			"phone": 27485651,
-			"carId": "CL548989"
+			"carId": "CL548989",
+			"vType": "Truck"
 		}
 	]
 }
